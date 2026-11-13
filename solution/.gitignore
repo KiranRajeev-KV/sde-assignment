@@ -1,0 +1,7 @@
+*.db
+*.keys.json
+*.egg-info/
+*.db-journal
+*.db-wal
+*.db-shm
+bench/
